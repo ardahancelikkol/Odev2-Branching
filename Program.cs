@@ -83,6 +83,9 @@ public class Program
             }
 
             Console.WriteLine();
+            Console.WriteLine("Thank you for reading!");
+
+            Console.WriteLine();
         }
     }
 
